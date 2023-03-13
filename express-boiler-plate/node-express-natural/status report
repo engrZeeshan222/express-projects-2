@@ -1,0 +1,11 @@
+Watch Video and Read article on "Web Scraping in nodejs using Cheeerio and puppeteer"
+Cheerio: 
+        - serialization of data and logging on console
+puppeteer : 
+        - Taking screenshot
+        - Downloading Pdf's
+        - Save file as get-dimensions.js 
+        - Evaluting JavaScript and Using Query-selector to log data on console.   
+
+Remaining:
+        - Making Custom Selectors for text and images
